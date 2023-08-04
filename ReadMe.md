@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 A passionate frontend developer and Technical Writer who has a keen eye for details. I enjoy tackling complex problems and building innovative solutions that have a positive impact. With a strong background in [React], I strive to continuously learn and stay up-to-date with the latest advancements in the field.<br>👯  Always ready to collaborate for Dev Experiments<br>🌱 I’m currently learning NodeJs  <br>⚡ Fun fact: I enjoy writing so I am also a technical writer
+🔭 A passionate frontend developer and Technical Writer who has a keen eye for details. I enjoy tackling complex problems and building innovative solutions that have a positive impact. With a strong background in React & NextJS, I strive to continuously learn and stay up-to-date with the latest advancements in the field.<br>👯  Always ready to collaborate for Dev Experiments<br>🌱 I’m currently learning NodeJs  <br>⚡ Fun fact: I enjoy writing so I am also a technical writer
 
 
 ## 🌐 Socials:
